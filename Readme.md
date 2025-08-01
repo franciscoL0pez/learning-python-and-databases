@@ -12,6 +12,7 @@ Python es un lenguaje de programación de alto nivel, interpretado y de propósi
 - **Muchas oportunidades laborales**: Alta demanda en el mercado 💼
 
 ## Instalación
+1. Video para instalar vs code y python [Link](https://www.youtube.com/watch?v=wJx1yhT0KKM)
 
 ### Windows
 1. Ve a [python.org](https://python.org)
@@ -23,6 +24,10 @@ Python suele venir preinstalado. Verifica con:
 ```bash
 python3 --version
 ```
+### Introduccion
+Explicacion sobre python, que es y como empezar [Link](https://www.youtube.com/watch?v=_6N18g3ewnw)
+
+Primer programa [Link](https://www.youtube.com/watch?v=-F2-CMWhmXw)
 
 ## Conceptos Básicos 📖
 
